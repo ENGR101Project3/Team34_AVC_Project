@@ -10,8 +10,9 @@ int main(){
     SavePPMFile("i0.ppm",cameraView);
     while(1){
       setMotors(vLeft,vRight);   
+      std::cout << "Bruh" << std::endl;
       std::cout<<" vLeft="<<vLeft<<"  vRight="<<vRight<<std::endl;
-      usleep(10000);
+      usleep(1000);
   } //while
 
 } // main

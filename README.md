@@ -14,4 +14,4 @@ please visit the [Wiki here](https://github.com/ENGR101Project3/Team34_AVC_Proje
 
 * **Software Writing** - Ellan
 
-** Installation Instructions ** - [Installation & Setup](https://github.com/ENGR101Project3/Team34_AVC_Project/wiki/Installation-&-Setup)
+**Installation Instructions** - [Installation & Setup](https://github.com/ENGR101Project3/Team34_AVC_Project/wiki/Installation-&-Setup)
